@@ -1,0 +1,39 @@
+Requirements for handson-ml:
+
+---------------------------
+core packages
+---------------------------
+jupyter 1.0.0
+matplotlib
+numpy 1.17.2
+pandas 0.25.1
+scipy 1.3.1
+
+
+---------------------------
+Machine learning packages
+---------------------------
+scikit-learn 0.21.3
+
+
+---------------------------
+Deep learning packages
+---------------------------
+tensorflow
+
+
+---------------------------
+Image manipulation
+---------------------------
+imageio
+Pillo
+sciki-image
+
+
+---------------------------
+optional libraries
+---------------------------
+nltk
+urlextract
+tqdm
+ipwidgets
